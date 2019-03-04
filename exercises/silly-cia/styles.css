@@ -1,0 +1,20 @@
+/* tags */
+
+p {
+    color: red;
+}
+
+/* by id */
+
+#title {
+    background-color: aqua;
+}
+
+.paragraph {
+    margin: 10px;
+}
+
+.this-class {
+    
+}
+
